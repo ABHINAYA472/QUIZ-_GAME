@@ -22,8 +22,8 @@ def main():
     questions = [
         {"question": "python program is saved with extention?", "options": [".py", ".phy", ".python"], "answer": 1},
         {"question": "Which planet is known as the Blue Planet?", "options": ["Earth", "Mars", "Jupiter"], "answer": 1},
-        {"question": "What is the largest ocean on Earth?", "options": ["Atlantic", "Indian", "Pacific"], "answer": 3}
-        {"question": "What is the Basic level language of computer?", "options": ["C", "C++", "Python"], "answer": 1}
+        {"question": "What is the largest ocean on Earth?", "options": ["Atlantic", "Indian", "Pacific"], "answer": 3},
+        {"question": "What is the Basic level language of computer?", "options": ["C", "C++", "Python"], "answer": 1},
         {"question": "Which programming language is  used for Web Development?", "options": ["Python", "JavaScript", "Java"], "answer": 2}
     ]
 
